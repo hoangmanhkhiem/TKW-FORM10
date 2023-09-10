@@ -1,0 +1,22 @@
+body {
+    color: white;
+    font-size: 20px;
+
+}
+
+form {
+    background-color: orange;
+    margin: 0 auto;
+    width: 500px;
+}
+
+input[type="text"] {
+    width: 250px;
+}
+input{
+    border-color: #e2e2e2;
+    border-style: solid;
+}
+tr td:first-child{
+    padding-right: 100px;
+}
